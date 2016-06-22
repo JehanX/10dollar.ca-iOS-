@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5AFF23701CEB787B009F802D"
-               BuildableName = "Idea.ca.app"
-               BlueprintName = "Idea.ca"
-               ReferencedContainer = "container:Idea.ca.xcodeproj">
+               BuildableName = "10dollar.ca.app"
+               BlueprintName = "10dollar.ca"
+               ReferencedContainer = "container:10dollar.ca.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5AFF23841CEB787B009F802D"
-               BuildableName = "Idea.ca.xctest"
-               BlueprintName = "Idea.caTests"
-               ReferencedContainer = "container:Idea.ca.xcodeproj">
+               BuildableName = "10dollar.ca.xctest"
+               BlueprintName = "10dollar.caTests"
+               ReferencedContainer = "container:10dollar.ca.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5AFF238F1CEB787B009F802D"
-               BuildableName = "Idea.ca.xctest"
-               BlueprintName = "Idea.caUITests"
-               ReferencedContainer = "container:Idea.ca.xcodeproj">
+               BuildableName = "10dollar.ca.xctest"
+               BlueprintName = "10dollar.caUITests"
+               ReferencedContainer = "container:10dollar.ca.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5AFF23701CEB787B009F802D"
-            BuildableName = "Idea.ca.app"
-            BlueprintName = "Idea.ca"
-            ReferencedContainer = "container:Idea.ca.xcodeproj">
+            BuildableName = "10dollar.ca.app"
+            BlueprintName = "10dollar.ca"
+            ReferencedContainer = "container:10dollar.ca.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5AFF23701CEB787B009F802D"
-            BuildableName = "Idea.ca.app"
-            BlueprintName = "Idea.ca"
-            ReferencedContainer = "container:Idea.ca.xcodeproj">
+            BuildableName = "10dollar.ca.app"
+            BlueprintName = "10dollar.ca"
+            ReferencedContainer = "container:10dollar.ca.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5AFF23701CEB787B009F802D"
-            BuildableName = "Idea.ca.app"
-            BlueprintName = "Idea.ca"
-            ReferencedContainer = "container:Idea.ca.xcodeproj">
+            BuildableName = "10dollar.ca.app"
+            BlueprintName = "10dollar.ca"
+            ReferencedContainer = "container:10dollar.ca.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
